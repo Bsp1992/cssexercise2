@@ -1,0 +1,19 @@
+.alert{
+    background-color:lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+
+#title{
+    color: blue; font-size: 36px;
+}
+
+.severe{
+    font-size: 24px;
+}
+
+#number{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
